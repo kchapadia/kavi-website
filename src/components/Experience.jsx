@@ -8,38 +8,34 @@ const experiences = [
     duration: "FEB 2022 - PRESENT",
     categories: [
       {
-        name: "Technical Leadership & Strategy",
+        name: "Strategic Leadership & Technical Oversight",
         items: [
-          "Led the BigID Data Retention and Remediation (R&R) team for the client, driving the technical direction and ensuring seamless application integration.",
+          "Led the BigID Data Retention and Remediation (R&R) team, driving technical direction and seamless application integration.",
+          "Explored BigID's capabilities in Retention, Remediation, and Data Cataloging, designing and executing a successful proof of concept to demonstrate their versatility and alignment with compliance requirements.",
           "Contributed significantly to PI Planning sessions, emphasizing proactive collaboration and future-proofing project directions.",
-          "Thoroughly investigated BigID's R&R capabilities, providing critical insights into application potential.",
-          "Designed and executed a successful proof of concept highlighting the versatility of R&R applications within BigID."
+          "Capitalized on BigID training certifications to deepen product knowledge, enhancing team expertise and project outcomes.",
+          "Authored and presented an effective implementation and communication plan, ensuring clarity and direction for all stakeholders."
         ]
       },
       {
-        name: "Project Management & Reporting",
+        name: "Data Governance & Application Solutions",
         items: [
-          "Managed Jira sprints, features, and stories, driving team productivity and meeting project milestones.",
-          "Consistently documented and communicated weekly R&R updates, ensuring transparency in project progression.",
+          "Spearheaded the creation and testing of retention policies, data remediation strategies, and cataloging workflows using BigID, optimizing configurations for business needs and compliance.",
+          "Leveraged BigID Data Catalog to classify, organize, and enhance metadata quality, ensuring efficient data discovery.",
+          "Utilized Informatica EDC to analyze data lineage, uncovering critical insights for data governance and efficiency improvements.",
+          "Collaborated with stakeholders to integrate data lineage insights using Informatica EDC, enabling enhanced governance and compliance strategies.",
+          "Crafted questionnaires for investigative activities, streamlining data source evaluations and ensuring accurate data lineage insights.",
+          "Developed comprehensive training materials, runbooks, and intuitive flow diagrams for BigID R&R applications, improving team enablement, streamlining operations and ensuring workflow clarity.",
+          "Presented product demonstrations for BigID R&R applications, showcasing solutions and project achievements to stakeholders."
+        ]
+      },
+      {
+        name: "Project Management & Collaboration",
+        items: [
+          "Managed Jira workflows, including sprints, features, and stories, driving team productivity and meeting project milestones.",
+          "Delivered consistent weekly updates on R&R progress, fostering transparency in project status and deliverables.",
           "Initiated and hosted review and stand-up sessions, fostering a cohesive team environment and real-time project updates.",
-          "Fostered collaborations with other teams, ensuring aligned objectives and harmonious work processes."
-        ]
-      },
-      {
-        name: "Application Development & Testing",
-        items: [
-          "Spearheaded the creation and testing of retention policies and data remediation strategies, ensuring optimal configuration for business needs.",
-          "Developed comprehensive training material and runbook for R&R applications in BigID, elevating the knowledge base and streamlining operations.",
-          "Created intuitive flow diagrams for BigID R&R applications, ensuring clarity in workflow execution.",
-          "Developed and presented product demonstrations for BigID R&R applications, showcasing project achievements to stakeholders."
-        ]
-      },
-      {
-        name: "Training & Communication",
-        items: [
-          "Capitalized on BigID training modules and certifications to deepen product knowledge, enhancing team expertise and project outcomes.",
-          "Authored and presented an effective implementation and communication plan, ensuring clarity and direction for all stakeholders.",
-          "Crafted questionnaires for investigative activities, streamlining data source evaluations."
+          "Coordinated cross-team collaborations to ensure alignment of objectives and harmonious work processes."
         ]
       }
     ],
