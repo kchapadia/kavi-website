@@ -19,11 +19,11 @@ const skills = [
 const expertise = [
   {
     id: "4",
-    expertise: "Data Analytics"
+    expertise: "Informatica EDC"
   },
   {
     id: "5",
-    expertise: "Machine Learning"
+    expertise: "Data Analytics"
   },
   {
     id: "6",
